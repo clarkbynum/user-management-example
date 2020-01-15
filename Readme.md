@@ -9,9 +9,11 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 [Browse ipm Packages](https://ipm.clearblade.com)
 
+## Setup
+
+Once the system has been installed, create a user in the system and navigate to the portal.
+
 ## Usage
 
  ![](manage-user.gif)
-
-## API
 
