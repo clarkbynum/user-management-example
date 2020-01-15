@@ -1,0 +1,30 @@
+{
+    "asset_types": [
+        "Devices",
+        "Edges",
+        "Portals",
+        "Roles",
+        "Users"
+    ],
+    "author": {
+        "email": "a@a.com"
+    },
+    "clouds": [],
+    "description": "This system contains a portal that demonstrates how to create and delete users, edit users' fields, change users' password, and modify users' roles.",
+    "domains": [],
+    "exportRows": false,
+    "gateways": [],
+    "image_url": "https://i.imgur.com/daBvbWu.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "user-management-example",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
