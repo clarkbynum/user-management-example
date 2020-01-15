@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "UserManagement",
+    "platform_url": "http://127.0.0.1:9000",
+    "system_key": "ccb3f9e10b9ac9f2c580b9f78f32",
+    "system_secret": ""
+}
