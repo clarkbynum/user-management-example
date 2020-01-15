@@ -11,7 +11,7 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 ## Usage
 
- 	![](manage-user.gif)
+ ![](manage-user.gif)
 
 ## API
 
